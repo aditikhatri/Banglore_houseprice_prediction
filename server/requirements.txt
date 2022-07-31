@@ -1,0 +1,14 @@
+certifi==2020.6.20
+click==8.0.3
+dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
+Flask==1.0.2
+importlib-metadata==4.8.3
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/16a820f0-3874-45b4-6b79-5313238ead21/volume/markupsafe_1621528157387/work
+numpy==1.16.2
+scikit-learn==0.20.3
+scipy==1.5.4
+typing_extensions==4.1.1
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+zipp==3.6.0
